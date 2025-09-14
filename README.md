@@ -1,4 +1,4 @@
-# ESAN_ExFinal
+# ESAN_ExFinal_LOTI_PERU
 # Lottery MLOps – Prueba
 
 Caso ficticio para una empresa de loterías. Incluye **DataOps + DevOps** y un modelo XGBoost para clasificar apuestas sospechosas.
